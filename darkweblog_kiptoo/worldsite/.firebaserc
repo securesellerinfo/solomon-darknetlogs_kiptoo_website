@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "darknetlogs",
+    "darknetlogs": "darknetlogs"
+  },
+  "targets": {}
+}

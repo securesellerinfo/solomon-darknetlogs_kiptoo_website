@@ -25,7 +25,7 @@ export default function Actualhome() {
         </p>
         <p>
           BEFORE YOU CAN PURCHASE ANY OF OUR TOOLS, YOUR ACOUNT MUST BE FUNDED.
-          first funding is ($100 usd minimum) second time you can fund any
+          first funding is ($150 usd minimum) second time you can fund any
           amount from $85
         </p>
 
